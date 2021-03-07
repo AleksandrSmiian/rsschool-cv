@@ -15,7 +15,7 @@
  * Javascript - base
  * HTML - sure
  * Css 
- * _ Scss - medium
+ * - Scss - medium
  * Gulp - base
  * Bootstrap - base
  
