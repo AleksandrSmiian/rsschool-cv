@@ -1,1 +1,1 @@
-https://github.com/aleksandrsmiian.github.io/rsschool-cv/cv
+https://github.com/aleksandrsmiian.github.io/rsschool-cv/readme.md
