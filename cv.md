@@ -14,7 +14,8 @@
  # Hard skills:
  * Javascript - base
  * HTML - sure
- * Css - Scss - medium
+ * Css 
+ * _Scss - medium
  * Gulp - base
  * Bootstrap - base
  
