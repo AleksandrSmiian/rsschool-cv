@@ -1,24 +1,24 @@
-  #H1 First name: 
+  # First name: 
  Aleksandr  
-  Last name:
+  # Last name:
  Smiian
  
-  Contacts for communication: 
+  # Contacts for communication: 
   Mail: Smiyanaleksandr@gmail.com
  Telegram: SmiyanAleksandr(+380501802809)
  
-  About me:
+  # About me:
  I strive to master javascript, because I like how a picture is created in front of my eyes and I understand that I did it, it inspires me.
  At the moment I am working, but every day I set aside time for self-study.
  
-  Hard skills:
+ # Hard skills:
  Javascript - base
  HTML - sure
  Css/Scss - medium
  Gulp - base
  Bootstrap - base
  
-  Code examples:
+ # Code examples:
   $(function(){
 /* Fixed Header */
 let header = $("#header");
@@ -84,9 +84,9 @@ slider.slick({
 });
 
 
-  Education :
+ # Education :
  Self-education,I learn everything myself, practice at https://www.codewars.com/
  
-  English:
+#  English:
   A2
  
