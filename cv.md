@@ -4,8 +4,8 @@
  Smiian
  
   # Contacts for communication: 
-  Mail: Smiyanaleksandr@gmail.com
- Telegram: SmiyanAleksandr(+380501802809)
+  - Mail: Smiyanaleksandr@gmail.com
+  - Telegram: SmiyanAleksandr(+380501802809)
  
   # About me:
  I strive to master javascript, because I like how a picture is created in front of my eyes and I understand that I did it, it inspires me.
