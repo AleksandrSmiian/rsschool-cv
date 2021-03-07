@@ -12,11 +12,11 @@
  At the moment I am working, but every day I set aside time for self-study.
  
  # Hard skills:
- Javascript - base
- HTML - sure
- Css/Scss - medium
- Gulp - base
- Bootstrap - base
+ * Javascript - base
+ * HTML - sure
+ * Css - Scss - medium
+ * Gulp - base
+ * Bootstrap - base
  
  # Code examples:
   $(function(){
