@@ -8,8 +8,8 @@
   - Telegram: SmiyanAleksandr(+380501802809)
  
   # About me:
- ** I strive to master javascript, because I like how a picture is created in front of my eyes and I understand that I did it, it inspires me.
- At the moment I am working, but every day I set aside time for self-study. **
+ **I strive to master javascript, because I like how a picture is created in front of my eyes and I understand that I did it, it inspires me.
+ At the moment I am working, but every day I set aside time for self-study.**
  
  # Hard skills:
  * Javascript - base
@@ -86,7 +86,7 @@ slider.slick({
 
 
  # Education :
- *** Self-education,I learn everything myself, practice at *** https://www.codewars.com/
+ ***Self-education,I learn everything myself, practice at*** https://www.codewars.com/
  
 #  English:
   A2
